@@ -1,4 +1,4 @@
--- COLOR SCHEME TEST "MonokaiFree/MonokaiFree.tmTheme" "SQL"
+-- COLOR SCHEME TEST "Monokarlos/Monokarlos.tmTheme" "SQL"
 
 SELECT * FROM x;
 # ^ fg=#f92672 fs=

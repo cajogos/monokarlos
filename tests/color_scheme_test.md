@@ -1,4 +1,4 @@
-<!-- COLOR SCHEME TEST "MonokaiFree/MonokaiFree.tmTheme" "Markdown" -->
+<!-- COLOR SCHEME TEST "Monokarlos/Monokarlos.tmTheme" "Markdown" -->
 
 # This is an <h1> tag
 <!-- ^ fg=#a6e22e fs=bold build>=3127 -->

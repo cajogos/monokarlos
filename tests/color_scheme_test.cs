@@ -1,4 +1,4 @@
-// COLOR SCHEME TEST "MonokaiFree/MonokaiFree.tmTheme" "C#"
+// COLOR SCHEME TEST "Monokarlos/Monokarlos.tmTheme" "C#"
 
 using System;
 // ^ fg=#f92672 fs=

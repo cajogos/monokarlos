@@ -1,4 +1,4 @@
-// COLOR SCHEME TEST "MonokaiFree/MonokaiFree.tmTheme" "C"
+// COLOR SCHEME TEST "Monokarlos/Monokarlos.tmTheme" "C"
 
         // This indented comment is to the preceding whitespace.
 // ^ fg=#f8f8f2 bg=#272822 fs=

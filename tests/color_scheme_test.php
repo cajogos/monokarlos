@@ -1,4 +1,4 @@
-<?php // COLOR SCHEME TEST "MonokaiFree/MonokaiFree.tmTheme" "PHP"
+<?php // COLOR SCHEME TEST "Monokarlos/Monokarlos.tmTheme" "PHP"
 
         // This indented comment is to the preceding whitespace.
 // ^ fg=#f8f8f2 bg=#272822 fs=

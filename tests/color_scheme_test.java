@@ -1,4 +1,4 @@
-// COLOR SCHEME TEST "MonokaiFree/MonokaiFree.tmTheme" "Java"
+// COLOR SCHEME TEST "Monokarlos/Monokarlos.tmTheme" "Java"
 
 package hi;
 // ^ fg=#f92672 fs=
